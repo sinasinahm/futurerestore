@@ -5,11 +5,11 @@ Only use if you are sure what you're doing.
 ---
 Latest release available [here](https://github.com/s0uthwest/futurerestore/releases) for Windows, macOS & Linux.
 
-I'll compile only macOS version, Windows version won't be compiled.
+I'll compile only macOS version, Windows & Linux version won't be compiled by me.
 
 ## Features
 * Supports the following downgrade methods
-  * Prometheus 64-bit devices (generator and APNonce collision mode);
+  * Prometheus 64-bit devices (generator and ApNonce collision mode);
   * Odysseus for 32-bit devices;
   * Re-restoring 32-bit devices to iOS 9 with [alitek123](https://github.com/alitek12) no-ApNonce method (alternative — [idevicererestore](https://github.com/s0uthwest/idevicererestore)).
 * Allows restoring any non-matching signed iOS/SEP/Baseband.
@@ -198,4 +198,4 @@ Creator of [original project](https://github.com/tihmstar/futurerestore) - [tihm
 
 
 ReadMe updated on:
-        2019-01-27
+        2019-02-18
